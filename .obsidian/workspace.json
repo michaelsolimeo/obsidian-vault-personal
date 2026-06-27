@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I. Asteroide.md",
+                "file": "Asteroide/Capitoli/I. Asteroide.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Asteroide/Capitoli/I. Asteroide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of I. Asteroide"
+            }
+          },
+          {
+            "id": "a944e7c83ae7d197",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +194,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f10c23233de8c661",
+  "active": "806f124ae6194704",
   "lastOpenFiles": [
-    "Untitled.base",
-    "I. Asteroide.md",
+    "Asteroide/Capitoli",
+    "Asteroide/Schede personaggi/Aurora Wallenstein.md",
+    "Asteroide/Schede personaggi/Julian Kavasir.md",
+    "Asteroide/Schede personaggi/Layla Orwell.md",
+    "Asteroide/Schede personaggi/Marcus Hellander.md",
+    "Asteroide/Schede personaggi/Anytype.20260627.144715.44/aurora-wallenstein.md",
+    "Asteroide/Schede personaggi/Anytype.20260627.144715.44/schemas/writing_project.schema.json",
+    "Asteroide/Schede personaggi/Anytype.20260627.144715.44/schemas",
+    "Asteroide/Schede personaggi/Anytype.20260627.144715.44",
+    "Asteroide/Schede personaggi/Anytype.20260627.144619.84/layla-orwell.md",
+    "Asteroide/Schede personaggi/Anytype.20260627.144619.84/schemas/writing_project.schema.json",
+    "Asteroide/Schede personaggi/Anytype.20260627.144619.84/schemas",
+    "Asteroide/Schede personaggi/Anytype.20260627.144619.84",
+    "Asteroide/Schede personaggi/Anytype.20260627.144524.74/julian-kvasir.md",
+    "Asteroide/Schede personaggi/Anytype.20260627.144524.74/schemas/writing_project.schema.json",
+    "Asteroide/Schede personaggi/Anytype.20260627.144524.74/schemas",
+    "Asteroide/Schede personaggi/Anytype.20260627.144524.74",
+    "Asteroide/Schede personaggi/Anytype.20260627.144206.39/marcus-hellander.md",
+    "Asteroide/Schede personaggi/Anytype.20260627.144206.39/schemas/writing_project.schema.json",
+    "Asteroide/Capitoli/I. Asteroide.md",
     "2026-06-09.md",
     "Untitled.canvas",
     "Welcome.md"
