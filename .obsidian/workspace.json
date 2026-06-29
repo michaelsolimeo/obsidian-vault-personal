@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "2b1f1c56ffd81382",
@@ -200,11 +200,16 @@
   },
   "active": "f10c23233de8c661",
   "lastOpenFiles": [
-    "flag_rebuild.md",
+    "Diario/29-06-2026.md",
     "Asteroide/Schede personaggi/Aurora Wallenstein.md",
+    "Diario",
+    "Asteroide/Capitoli/I. Asteroide.md",
+    "Asteroide/Capitoli/II. Asteroide.md",
+    "Asteroide/Capitoli/III. Asteroide.md",
+    "flag_rebuild.md",
+    "flag_fetch.md",
     "Asteroide/Schede personaggi/Marcus Hellander.md",
     "Asteroide/Schede personaggi/Layla Orwell.md",
-    "Asteroide/Capitoli/I. Asteroide.md",
     "Asteroide/Schede personaggi/Julian Kavasir.md",
     "Asteroide/Capitoli",
     "Asteroide/Schede personaggi/Anytype.20260627.144715.44/aurora-wallenstein.md",
@@ -218,7 +223,6 @@
     "Asteroide/Schede personaggi/Anytype.20260627.144524.74/julian-kvasir.md",
     "Asteroide/Schede personaggi/Anytype.20260627.144524.74/schemas/writing_project.schema.json",
     "Asteroide/Schede personaggi/Anytype.20260627.144524.74/schemas",
-    "Asteroide/Schede personaggi/Anytype.20260627.144524.74",
     "Asteroide/Schede personaggi/Anytype.20260627.144206.39/marcus-hellander.md",
     "2026-06-09.md",
     "Untitled.canvas",

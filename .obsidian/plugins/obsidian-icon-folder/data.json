@@ -4,12 +4,13 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
+    "iconColor": "#ea3f06",
     "recentlyUsedIcons": [
+      "LiBookText",
+      "LiNotebook",
       "LiAlignJustify",
       "LiPersonStanding",
-      "LiFolder",
-      "LiBook"
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +35,15 @@
     "useInternalPlugins": false
   },
   "Asteroide": "LiFolder",
-  "Asteroide/Schede personaggi": "LiPersonStanding",
+  "Asteroide/Schede personaggi": "LiNotebook",
   "Asteroide/Capitoli/I. Asteroide.md": "LiBook",
-  "Asteroide/Capitoli": "LiAlignJustify"
+  "Asteroide/Capitoli": "LiAlignJustify",
+  "Asteroide/Capitoli/II. Asteroide.md": "LiBook",
+  "Asteroide/Capitoli/III. Asteroide.md": "LiBook",
+  "Asteroide/Schede personaggi/Aurora Wallenstein.md": "LiPersonStanding",
+  "Asteroide/Schede personaggi/Julian Kavasir.md": "LiPersonStanding",
+  "Asteroide/Schede personaggi/Layla Orwell.md": "LiPersonStanding",
+  "Asteroide/Schede personaggi/Marcus Hellander.md": "LiPersonStanding",
+  "Diario": "LiBookText",
+  "Diario/29-06-2026.md": "LiBookText"
 }

@@ -5,7 +5,7 @@
   "couchDB_USER": "",
   "couchDB_PASSWORD": "",
   "couchDB_DBNAME": "",
-  "liveSync": false,
+  "liveSync": true,
   "syncOnSave": false,
   "syncOnStart": false,
   "savingDelay": 200,
@@ -55,7 +55,7 @@
   "syncInternalFilesInterval": 60,
   "additionalSuffixOfDatabaseName": "cfb7c28ab8e7519e",
   "ignoreVersionCheck": false,
-  "lastReadUpdates": 0,
+  "lastReadUpdates": 25,
   "deleteMetadataOfDeletedFiles": false,
   "syncIgnoreRegEx": "",
   "syncOnlyRegEx": "",
@@ -68,14 +68,14 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$4sXOFp6+cR2G34awMA848pasiAD4tbnhITPwg2uaHUDZAQ+uSfbYnIO87ndqd7Sj6bfwV/D+odp4d6+6/7TzbHqtl1Ao4lldr5sHmBQ/VE9oefhQqxCjPEb7W26ZSnrmz+1y0+ZmFx0Nwg==",
-  "encryptedCouchDBConnection": "%$4sXOFp6+cR2G34awMA848pasiAD4tbnhITPwg2uaHUBQY7OlD7xp/42TiPYn9l2WQc2ArAGdKwZdTNFrZ4RRP1qWz6gQlVxxn+t+MHBYzoPH434H45dj+6VP631umWdhkHVZTPXw4nYNKyft6sgwfO+g9UQSr2A4r9Yko2TxERfy5H/d0P1T1NHuhmvjztj2OfWgoIUz7nP/hIirFuBgIq8ntfojxvICeaoIAnyh311FLtyr+GFaVCBwi3qUnJcOTSamygvTwj+ahhM3eX9n9KPdSEpE+A2uNa0MJR88qYsk4tBMDrSmwSfV5q9u2xhWpQ5bsg47rPXkU6oU23bK4UCiA/7uJoCFrfMcLEKCoIGNlfPLhsvx1avGGSEquU/uJoE3s+z92Nca7h/7JiArCA7kDWODYRrJer96yaiZhPkx4QtZpjEE6JPOGjyrV9HOP8CrXsXO6yVXvZtPBZlj6zKnXrB+j7E9W2pHwcrHSQFVvs53TIrOeYf8HNtVe8dkwOrNBCtW3rKqwvl6yTxlCeUTG2A+ISswTffJ9sIDsd14z9hy3Od7Nv+cLXO8TCJnfcEuOiSfy0BMIOflArGAvaaDpg4U844C4u2khkIzckbLwCrwdI5AVgHDp6vf1G4LPsqseXkAZnPCt1+d5U9kVNsL/aLqwanCiLEffvysgeDcA62q54gTa43GWiclXhaRIHokXvx/pC9NJrpkIeYBPPrzhzuRFh0F21Lpsz5A1gyZKyImDtDsscTH++jlAysXgD5e9qnzKa2G9BbWfZLHeTkxpNcA",
+  "encryptedPassphrase": "%$a8A7s24SU15i1ZajUgE99c/SQXYoyBcstH71+oGDP0cFWU6soFMtHPTFv1DN5xx6IYS8Oqt1h7ItBtX5YSUJkaGAg5J6FOxMtHPb4GXJ0G+Eq3pChcJYTd8zEVvrs28P6NhTUk6l7xhEwA==",
+  "encryptedCouchDBConnection": "%$a8A7s24SU15i1ZajUgE99c/SQXYoyBcstH71+oGDP0cjGwN/ApU0j+mbzw2l+JZEpmsusU5L435E6iVPHzRZoYkXBj+AjLKVM2usNf5jk/PxhFCnVycoOMWGPxDKieFN21o3OZ3Fts5kYQU3ki9y0m6wAhRr/zW/V/3aB3D2bpjciMqeQGFYblVuJ6B77e0ThQJglhN05oU7DF35jg68iY44ghjQKTA+7Uw79BRhyNGdQAt0gvsugZYkzm2pfTgnsAHV178Pak4S2EXGbNpsmx1apJMPrtoObhjLRtfZuzWbmPr7DcJWnNO1DHIK1zzcAeJwbizJZolOIYJyks6+hk2l7zBUWGlovDFCcFIr47T9DM5enE2PvHk7eiB3ejhkdxgKXu0ZTrRX+N4n8BvKVxRC/JXwPfaMSqrpBU3Y8rClbyDj+nesovorlJ/1NBNvC8HzkKiDzXozldLNUX90SKCZXHb4fVheg8J0DE9YQBiYxmEK5xCPJFt/vWrdaZahfuWxrj3mBnne9TQG4nv7W5FnXc2LMTSeuQVzZhg0Xx/0hguUHJrjB2Q80Ssw+qhMO4iFX7Wv47x43qjs1aTClrhKdFulFQ138aoB4NCYoNjygaruzPdXcy7o6qxUIfdj/NW4OZFrXT5iGoXGYuqohITch7N8sYPogsOZgvHjcirGPLPe4hP2K7MwLoK6UYHu8bZeAgfAopHIWHPFNCmVMCvLXAlbmuWmaJP2wgtxutgkDKlkh3pMb/SNeQEvPvTe+9SsbL1Y1bS5pVYPr6rIlh7Dab+Q",
   "permitEmptyPassphrase": false,
   "remoteConfigurations": {
     "remote-mqwhn19u-4oasox": {
       "id": "remote-mqwhn19u-4oasox",
       "name": "chuwiserversync",
-      "uri": "%$4sXOFp6+cR2G34awMA848pasiAD4tbnhITPwg2uaHUCmSKRjiRkhHv9zgLOYHTgg0PTDe6WI5Oepp+tFSysTuLZMZBQoIAK9K5wgiqPe6iUQYS8vCfQEpZKl5kDV7WqHwf43KCQfAhpqD8uCx2C9spX69t9w/BIE4KtLqHBQnJAm40tPOH1J0m+ddpSlL6KjbVjI5u+JB+B01C5CgoGVAZwS0uhoOOrK124uBvnqsZQA0LML6o+iLB6xiiD0P48xmaIPV2hnKdXyZnzxjc+HrdgcyA4jupKuag5J1A1sKlY=",
+      "uri": "%$a8A7s24SU15i1ZajUgE99c/SQXYoyBcstH71+oGDP0fu1frQwEKX4ER1EV7kjEKsqiNlTcXtwngrIcGhP/OS8oliRIJjX8MNz7qjPwVQHlALAuGOX3UKAy89miUxpsiNH4gCJK8M8TAE7W3RScbGEfXm8N4HrjcPxiaXf6vVugsXuebChYg4UVz05mKMzMVR4dBY7FbjLPH3u4QTQfNYePnpe7NkeZ/GGbcy5sOxOy+VmlkVrYQAV7vaNod4knpmIUSZ/sizrzry3fb2hlBfaBcUlPsCo//vHr4ZMuZO2QM=",
       "isEncrypted": true
     }
   },
@@ -95,7 +95,7 @@
   "useIgnoreFiles": false,
   "ignoreFiles": ".gitignore",
   "syncOnEditorSave": false,
-  "keepReplicationActiveInBackground": false,
+  "keepReplicationActiveInBackground": true,
   "pluginSyncExtendedSetting": {},
   "syncMaxSizeInMB": 50,
   "settingSyncFile": "",
@@ -152,7 +152,7 @@
   "P2P_turnUsername": "",
   "P2P_turnCredential": "",
   "P2P_useDiagRTC": false,
-  "doctorProcessedVersion": "",
+  "doctorProcessedVersion": "0.25.27",
   "bucketCustomHeaders": "",
   "couchDB_CustomHeaders": "",
   "useJWT": false,
@@ -170,5 +170,5 @@
   "syncInternalFileOverwritePatterns": "",
   "useOnlyLocalChunk": false,
   "maxMTimeForReflectEvents": 0,
-  "tweakModified": 1782572696132
+  "tweakModified": 1782575391656
 }
